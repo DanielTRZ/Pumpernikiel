@@ -8,7 +8,7 @@ int main()
 string haslo;
 cout<<"Podaj slowo"<<endl;
 
-    while(cin>>haslo)
+ while(cin>>haslo)
     {
 
         if(haslo != "pumpernikiel")
