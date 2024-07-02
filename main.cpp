@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 string haslo;
-    cout<<"Podaj slowo"<<endl;
+cout<<"Podaj slowo"<<endl;
 
     while(cin>>haslo)
     {
