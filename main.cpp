@@ -10,8 +10,7 @@ cout<<"Podaj slowo"<<endl;
 
  while(cin>>haslo)
  {
-
- if(haslo != "pumpernikiel")
+if(haslo != "pumpernikiel")
  {
  cout<< "Podaj slowo: ";
  }
