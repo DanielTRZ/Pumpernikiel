@@ -9,7 +9,7 @@ string haslo;
 cout<<"Podaj slowo"<<endl;
 
  while(cin>>haslo)
- {
+{
 if(haslo != "pumpernikiel")
  {
  cout<< "Podaj slowo: ";
