@@ -12,7 +12,7 @@ cout<<"Podaj slowo"<<endl;
  {
 
  if(haslo != "pumpernikiel")
-        {
+ {
 
 
             cout<< "Podaj slowo: ";
