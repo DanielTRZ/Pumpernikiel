@@ -14,8 +14,7 @@ if(haslo != "pumpernikiel")
 {
 cout<< "Podaj slowo: ";
 }
-
-        else
+else
         {
             cout<< "Udalo ci sie opuscic petle"<<endl;
             break;
