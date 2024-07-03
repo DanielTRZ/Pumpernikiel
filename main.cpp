@@ -19,7 +19,7 @@ else
 cout<< "Udalo ci sie opuscic petle"<<endl;
 break;
 }
-    }
+}
 
     return 0;
 }
