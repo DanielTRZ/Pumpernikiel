@@ -13,7 +13,7 @@ while(cin>>haslo)
 if(haslo != "pumpernikiel")
 {
 cout<< "Podaj slowo: ";
- }
+}
 
         else
         {
